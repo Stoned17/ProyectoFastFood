@@ -1,0 +1,22 @@
+[
+{
+    "model": "orders.supplies",
+    "pk": 1,
+    "fields": {
+        "name": "Gaseosa Inka Kola 500ml",
+        "price": "2.30",
+        "image": "supplies/2019/11/30/inca-kola-gaseosas-normal-x-500-ml_0Ogzm0s.jpg",
+        "quantity": 20
+    }
+},
+{
+    "model": "orders.supplies",
+    "pk": 2,
+    "fields": {
+        "name": "coca cola 500ml",
+        "price": "2.40",
+        "image": "supplies/2019/11/30/coca_cola_500.jpg",
+        "quantity": 10
+    }
+}
+]
